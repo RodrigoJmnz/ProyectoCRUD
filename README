@@ -1,3 +1,7 @@
+Este es el trabajo grupal en el que partícipe con el alias de Roidryk y me encargue de la fase final del proyecto que era el código que tiene relación con la 
+interfaz(mostrar cantidad de trabajadores, sueldo medio, mostrar los datos de la tabla,añadir, eliminar, modificar,filtrar).
+
+
 # Base de datos 
 
 CREATE DATABASE bdTrabajadores;
